@@ -14,8 +14,7 @@ This is my first practice repository created with Git, GitHub, and Visual Studio
 
 ### First change
 
-I created this README file and uploaded it from my computer to GitHub.
-
+I created this README file and uploadgit commit -m ed it from my computer to GitHub.
 ### Next change
 
 Add a sentence below, save the file, commit it, and push it to GitHub.
